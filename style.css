@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+header {
+    background-image: url('./images/nadal.jpg');
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.nadal-img {
+    width: 250px;
+    height: auto;
+}
+
+.list-group-item {
+    background-color: #e9ecef;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    color: #17a2b8;
+}
+
+.card-text {
+    color: #6c757d;
+}
+
+footer {
+    background-color: #212529;
+    padding: 15px 0;
+    color: #fff;
+}
